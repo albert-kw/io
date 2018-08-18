@@ -1,7 +1,7 @@
 # io
 Io - audio management
 
-Using C# Mono to setup audio-media library  
+Using Ruby to setup audio-media library
 
 
 Features include: 
@@ -12,9 +12,14 @@ Features include:
  * [ ] (Un)Sorted tags are put into separate folders
 
 * [ ] Library database 
- * [ ] using SQL
+ * [ ] using PostgreSQL
 
 * [ ] file format 
+  * [ ] lame mp3
+  * [ ] wav
+  * [ ] flac
+  * [ ] ogg
+  * [ ] cue sheet
 * [ ] Fix metadata tags for individual song file 
  * [ ] Title 
  * [ ] Artist 
@@ -28,8 +33,12 @@ Features include:
  * [ ] Arranged by 
  * [ ] Performed by 
  * [ ] Track# / Disc# 
- * [ ] Skip (track) 
+ * [ ] Skip (track) - custom tag
  * [ ] Cover Art 
-[ ] User settings : Basic / Advanced
+ * [ ] User settings : Basic / Advanced
+
+* [ ] media player
+* [ ] global shortcut keys
+* [ ] play all, play only SKIP != 1
 
 "root" or "parent" refers to the media library folder
