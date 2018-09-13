@@ -1,5 +1,5 @@
-require "io/version"
-require "io/get_files"
+require 'io/version'
+require 'io/get_files'
 
 LIB_ROOT = "tmp"
 
