@@ -10,7 +10,7 @@ def set_library_root (root)
 
     elsif
         raise "Library Root cannot be set. " +
-            "Incorrect path: '#{Dir.pwd}.'"
+            "Incorrect path: '#{root}'."
     end
 end
 
