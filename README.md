@@ -22,23 +22,21 @@ Or install it yourself as:
 
     $ gem install io
 
-##Features include: 
+## Features include: 
 
 * [ ] Scan, monitor library for new albums / music files
- * [ ] Gather statistics like:
-  * [ ] Total number of albums, number of songs
-  * [ ] Total duration for each album, song
-  * [ ] Songs that are skipped frequently, most played songs
+  * [ ] Gather statistics like:
+    * [ ] Total number of albums, number of songs
+    * [ ] Total duration for each album, song
+    * [ ] Songs that are skipped frequently, most played songs
 
 * [ ] Re-structure media library folder 
- * [ ] Re-name album folder 
- * [ ] Re-name individual song file 
- * [ ] (Un)Sorted tags are put into separate folders 
+  * [ ] Re-name album folder 
+  * [ ] Re-name individual song file 
+  * [ ] (Un)Sorted tags are put into separate folders 
 
 * [ ] Library database 
- * [ ] using PostgreSQL ; OR maybe use Redis 
-
-* [ ] 
+  * [ ] using PostgreSQL ; OR maybe use Redis 
 
 * [ ] supported file format 
   * [ ] lame mp3
@@ -48,25 +46,25 @@ Or install it yourself as:
   * [ ] cue sheet 
 
 * [ ] Fix metadata tags for individual song file 
- * [ ] Title 
- * [ ] Artist 
- * [ ] Album 
- * [ ] Album Artist 
- * [ ] Release Date 
- * [ ] Genre 
- * [ ] Catalog Number 
- * [ ] Composed by 
- * [ ] Publisher/ Record Company 
- * [ ] Arranged by 
- * [ ] Performed by 
- * [ ] Track# / Disc# 
- * [ ] Skip (track) - custom tag
- * [ ] Cover Art 
- * [ ] User settings : Basic / Advanced
+  * [ ] Title 
+  * [ ] Artist 
+  * [ ] Album 
+  * [ ] Album Artist 
+  * [ ] Release Date 
+  * [ ] Genre 
+  * [ ] Catalog Number 
+  * [ ] Composed by 
+  * [ ] Publisher/ Record Company 
+  * [ ] Arranged by 
+  * [ ] Performed by 
+  * [ ] Track# / Disc# 
+  * [ ] Skip (track) - custom tag
+  * [ ] Cover Art 
+  * [ ] User settings : Basic / Advanced
 
 * [ ] media player
-* [ ] global shortcut keys
-* [ ] play all, play only SKIP != 1
+  * [ ] global shortcut keys
+  * [ ] play all, play only SKIP != 1
 
 ## Usage
 
