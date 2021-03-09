@@ -1,3 +1,7 @@
+# DISCONTINUED...
+This project is being moved and ported to using electron instead.
+For more information: https://github.com/albert-kw/elm
+
 # Io
 
 Io - audio management
